@@ -1,5 +1,28 @@
 ## Hi there 👋
 
+---
+### 🛠️ Skills
+
+- ASP Net Core
+- C#
+- Ef Core
+- Clean Architecture
+- SQL
+- Postgres
+- Docker
+- REST API
+- Swagger
+
+
+- Python
+- Pytest
+- Allure
+- Httpx
+- Faker
+- Pydantic
+- Fixtures
+---
+
 <!--
 **wBlackPrince/wBlackPrince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
