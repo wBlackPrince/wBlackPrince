@@ -2,7 +2,8 @@
 
 ---
 ### 🛠️ Skills
-
+---
+#### 🖥 Backend
 - ASP Net Core
 - C#
 - Ef Core
@@ -12,8 +13,8 @@
 - Docker
 - REST API
 - Swagger
-
-
+---
+#### 🔎 QA autotest
 - Python
 - Pytest
 - Allure
@@ -22,6 +23,10 @@
 - Pydantic
 - Fixtures
 ---
+#### 🎨 Frontend
+- html
+- css
+--- 
 
 <!--
 **wBlackPrince/wBlackPrince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
