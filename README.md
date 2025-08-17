@@ -24,8 +24,8 @@
 - Fixtures
 ---
 #### 🎨 Frontend
-- html
-- css
+- Html
+- Css
 --- 
 
 <!--
