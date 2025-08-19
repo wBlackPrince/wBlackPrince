@@ -22,6 +22,7 @@
 - Faker
 - Pydantic
 - Fixtures
+- CI/CD
 ---
 #### 🎨 Frontend
 - Html
