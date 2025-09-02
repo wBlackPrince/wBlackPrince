@@ -15,6 +15,7 @@
 - Docker
 - REST API
 - Swagger
+- CI/CD
 ---
 #### 🔎 QA autotest
 - Python
