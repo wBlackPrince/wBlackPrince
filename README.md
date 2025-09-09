@@ -12,6 +12,7 @@
 - Clean Architecture
 - SQL
 - Postgres
+- Minio
 - Docker
 - REST API
 - Swagger
