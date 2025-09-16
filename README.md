@@ -17,16 +17,7 @@
 - REST API
 - Swagger
 - CI/CD
----
-#### 🔎 QA autotest
-- Python
-- Pytest
-- Allure
-- Httpx
-- Faker
-- Pydantic
-- Fixtures
-- CI/CD
+
 ---
 #### 🎨 Frontend
 - Html
